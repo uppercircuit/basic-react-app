@@ -5,6 +5,7 @@ function ProductTab(){
         <product title="phone"/>
         <product title="laptop"/>
         <product title="pen"/>
+        Hello
 
         </>
     );
